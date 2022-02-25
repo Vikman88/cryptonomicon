@@ -1,5 +1,9 @@
 # cryptonomicon
 
+## Open [Demo project](https://cryptonomicon-nu.vercel.app/)
+
+---
+
 ## Project setup
 
 ```
